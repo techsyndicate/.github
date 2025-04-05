@@ -1,5 +1,5 @@
 ### 👋 Hey! We’re Tech Syndicate,
-the computer club at [Amity International School, Sector 46, Gurgaon](https://www.amity.edu/ais/gurgaon46/).
+the computer club at [Amity International School, Sector 46, Gurgaon](https://amityschools.in/gurugram46/).
 
 We’re a family of super-passionate developers, designers, programmers, filmmakers, quizzers, and artists who strive for success in their fields. Our club’s goal is to cultivate an ardent community at school and foster learning novel technologies to build for good.
 
